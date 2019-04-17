@@ -1,15 +1,16 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "users": [
+    { "name":"Abebe",
+      "age":27,
+      "email": "abebe27@gmail.com",
+      "password":"abebe27" },
+    { "name":"Tsega",
+      "age": 21,
+      "email":"tsega21@gmail.com",
+      "password":"tsega21" }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "user database"
   }
 }
