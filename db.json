@@ -1,5 +1,5 @@
 {
- [ "users":
+ "users":[
          { 
            "name":"Abebe",
            "age":27,
@@ -12,5 +12,5 @@
           "email":"tsega21@gmail.com",
           "password":"tsega21" 
        }
-  ]
+    ]
 }
